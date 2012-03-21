@@ -1,0 +1,37 @@
+#container {width:960px;
+margin:auto;
+border-style:solid;
+border-width:5px;}
+
+#header{
+position:float;
+color:white;
+background-color:black;
+margin:auto;
+}
+
+
+#navigation {
+position:float;
+color:white;
+background-color:red;
+width:100px;
+}
+
+#middle {
+background-color:grey;
+}
+
+#posts {
+margin-top:25px;
+margin-left:25px;
+background-color:light grey;
+width:500px;}
+
+#sidebar {
+position:float;
+background-color:green;
+color:blue;
+width:400px;
+}
+
